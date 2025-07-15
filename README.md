@@ -21,7 +21,8 @@ Aspiring Cybersecurity Professional focused on mastering the fundamentals of Net
 ## 🎓 Certifications
 - ✅ *Complete Introduction to Cybersecurity 2025* (Udemy)
   - Instructor: Grant Collins
-  - [View Certificate](https://github.com/Zahradev08/zahradev08/raw/main/cybersecurity%20basics%20certificate.pdf)
+  - [📄 View Certificate](https://github.com/zahradev08/zahradev08/raw/main/cyber%20security%20basics%20certificate.pdf)
+
     
 
 ## 🚀 Future Roadmap
